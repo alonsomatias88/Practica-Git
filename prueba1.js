@@ -1,1 +1,1 @@
-llamalo caca
+console.log("boke puto")
